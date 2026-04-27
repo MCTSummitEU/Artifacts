@@ -1,6 +1,6 @@
 # Shaping the MCT of the future (Panel)
 
-**Speaker(s):** Rolf McLaughlin, Sara Fennah, Amelia Hernández Osorio, Ronald Beekelaar — session on the [MCT EU Summit 2026](https://e.runevents.net/mct-eu-summit-2026) agenda.
+**Speaker(s):** Ronald Beekelaar, Sara Fennah, Amelia Hernández Osorio, Rolf McLaughlin — session on the [MCT EU Summit 2026](https://e.runevents.net/mct-eu-summit-2026) agenda.
 
 ## Abstract
 

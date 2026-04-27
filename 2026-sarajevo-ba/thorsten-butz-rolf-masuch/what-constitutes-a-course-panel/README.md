@@ -1,6 +1,6 @@
 # What constitutes a course?
 
-**Speaker(s):** Thorsten Butz, Rolf McLaughlin — session on the [MCT EU Summit 2026](https://e.runevents.net/mct-eu-summit-2026) agenda.
+**Speaker(s):** Thorsten Butz, Rolf Masuch — session on the [MCT EU Summit 2026](https://e.runevents.net/mct-eu-summit-2026) agenda.
 
 ## Abstract
 
