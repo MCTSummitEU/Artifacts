@@ -1,0 +1,5 @@
+# Local scripts (regeneration helpers), not part of published session artifacts
+_tools/
+
+# Scratch or WIP event trees
+**/2026-temp/
