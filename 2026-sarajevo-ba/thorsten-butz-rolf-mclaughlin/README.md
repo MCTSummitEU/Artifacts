@@ -6,7 +6,7 @@
 
 
 
-Thorsten Butz and Rolf McLaughlin have both been involved in the MCT programme for more than 50 years in total. "[What constitues a course?]("what-constitutes-a-course/what-constitutes-a-course-mctsummit2026.pdf")" highlights their perspective on the past and present state of the programme.
+Thorsten Butz and Rolf McLaughlin have both been involved in the MCT programme for more than 50 years in total. **[What constitues a course?](what-constitutes-a-course/what-constitutes-a-course-mctsummit2026.pdf)** highlights their perspective on the past and present state of the programme.
 
 
 
