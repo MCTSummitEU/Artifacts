@@ -1,5 +1,12 @@
+# Cursor IDE (rules, local config) — not part of published artifacts; do not commit
+.cursor/
+
 # Local scripts (regeneration helpers), not part of published session artifacts
 _tools/
 
 # Scratch or WIP event trees
 **/2026-temp/
+
+# `_speakers/` trees (screenshots, generated `speakers.md`, etc.) excluded from git
+2025-manchester-uk/_speakers/
+2026-sarajevo-ba/_speakers/

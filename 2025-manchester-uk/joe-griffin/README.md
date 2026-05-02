@@ -1,0 +1,7 @@
+# Joe Griffin
+
+<img src="https://cdn.runevents.net/speaker-profile-images/9c2a6e49-adec-4514-b506-c1aa9c67af9c" alt="Joe Griffin" style="max-width:300px; max-height:300px; width:auto; height:auto;" />
+
+My name’s Joe Griffin, and I’m CEO of proMX UK, a Microsoft Inner Circle partner within the proMX group of companies. I hold various Microsoft certifications in Dynamics CRM/365 Customer Engagement, Azure, Power BI and SQL Server and am also a PRINCE2 Project Manager and Agile Practitioner. I have a broad knowledge of working with and managing projects involving Dynamics 365 Customer Engagement, Azure, Power BI, .NET and other technologies within the Microsoft cloud stack. During this time, I’ve developed a keen interest in coding, and love working with Transact-SQL, JScript, PowerShell, DAX & C#. Thanks to my previous experience, I have practical knowledge operating within the energy efficiency, managed services, retail, print & direct mail and utility sectors. I love getting involved as part of the Business Applications technical community and was very fortunate to receive the Most Valuable Professional (MVP) award from Microsoft in 2020, in recognition of my contributions in this area. When I’m not blogging or tinkering, I enjoy reading, catching up on the latest films/TVs, and learning about and studying history.
+
+Joe Griffin: [Speaker profile](https://speakers.run.events/joegriffin) on run.events
