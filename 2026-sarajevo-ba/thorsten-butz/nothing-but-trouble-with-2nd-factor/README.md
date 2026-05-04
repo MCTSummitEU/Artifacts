@@ -1,6 +1,6 @@
 # Nothing but trouble with the 2nd factor?
 
-**Speaker(s):** Thorsten Butz — session on the [MCT EU Summit 2026](https://e.runevents.net/mct-eu-summit-2026) agenda.
+**Speaker(s):** Thorsten Butz — MCT Summit 2026 in Sarajevo
 
 ## Abstract
 
@@ -11,3 +11,16 @@ You may rely on your lab hoster. But let's be honest: courses based on standardi
 From TOTP to passkeys and from Fido 2 tokens to QR codes, we explore simple tricks to help you and your students effortlessly connect to the online world.
 
 Nothing but trouble with the 2nd factor? It does not have to be that way!
+
+## Recording
+
+You can find the recording on YouTube: https://youtu.be/GM-NnwnW2_o
+
+[![Video Thumbnail](https://img.youtube.com/vi/GM-NnwnW2_o/0.jpg)](https://www.youtube.com/watch?v=GM-NnwnW2_o)
+
+
+
+The session was recorded on April 23, 2026 in Sarajevo (Hotel Hills, Room 2, 
+11:45). The video offers curated subtitles in English. Thanks to Auphonic, they helped a lot to optimize the video. 
+
+ 
