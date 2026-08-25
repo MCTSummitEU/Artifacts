@@ -8,5 +8,6 @@ _tools/
 **/2026-temp/
 
 # `_speakers/` trees (screenshots, generated `speakers.md`, etc.) excluded from git
+2024-rijswijk-nl/_speakers/
 2025-manchester-uk/_speakers/
 2026-sarajevo-ba/_speakers/
