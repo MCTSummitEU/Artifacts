@@ -1,8 +1,8 @@
 # 2026 Munich — AI / maintainer notes
 
-**Audience:** AI agents and repo maintainers. The public **[README.md](README.md)** is intentionally minimal.
+**Audience:** AI agents and repo maintainers.
 
-This tree mirrors the Friday program in **[agenda.md](agenda.md)** for the MCT DACH Community Meetup (4 September 2026, Microsoft München). Saturday (Stadtführung) is not in this tree. Each leaf session folder is where slides and examples go.
+The public **[README.md](README.md)** **is the Friday agenda** (markdown table), not a one-line title. There is **no** separate `agenda.md`. Do not restore a one-line README. Saturday (Stadtführung) is not in this tree. Each leaf session folder is where slides and examples go.
 
 ## Event sources
 
