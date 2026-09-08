@@ -1,6 +1,12 @@
 # Cursor IDE (rules, local config) — not part of published artifacts; do not commit
 .cursor/
 
+# AI maintainer notes (memory/rules for agents) — keep local, do not publish
+ARTIFACTS_AI.md
+AGENTS.md
+CLAUDE.md
+.cursorrules
+
 # Local scripts (regeneration helpers), not part of published session artifacts
 _tools/
 

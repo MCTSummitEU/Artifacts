@@ -45,5 +45,3 @@ git push -u origin add-my-session-material
 After the push, open your fork on GitHub and use **Compare & pull request** to send the changes to **MCTSummitEU/Artifacts**.
 
 **Rights:** Only upload material you are allowed to distribute (your own slides/code, or content cleared for sharing). Do not commit secrets, passwords, or large personal datasets.
-
-**More detail for maintainers:** per-summit naming and automation notes live in each year folder’s **`ARTIFACTS_AI.md`** (not required reading for a one-off speaker upload).
